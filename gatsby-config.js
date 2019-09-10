@@ -21,7 +21,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Pouria Tajdivand - @tajpouria/portfolio`,
-        short_name: `Cara`,
+        short_name: `FindPouria`,
         description: `Pouria Tajdivand Portfolio - experience, projects, technical skills and contact.`,
         start_url: `/`,
         background_color: `#141821`,
